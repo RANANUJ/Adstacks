@@ -2,6 +2,8 @@
 
 A premium, modern, glassmorphic office management dashboard application built using **Flutter**. This application features a beautiful, dark-themed UI with vibrant neon gradients, smooth hover interactions, responsive layouts, data visualization, dynamic calendars, and a comprehensive admin management portal with full CRUD functionalities.
 
+🚀 **Live Web App Demo:** [Run the Application in Chrome](https://assignment-43f5e.web.app)
+
 ---
 
 ## 🌟 Key Features
